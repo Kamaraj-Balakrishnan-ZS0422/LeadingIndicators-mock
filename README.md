@@ -22,7 +22,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     
-    git clone https://github.com/yourusername/leading-indicators.git
+    git clone (https://github.com/Kamaraj-Balakrishnan-ZS0422/LeadingIndicators-mock.git)
 
 2. Navigate to the project directory:
 
